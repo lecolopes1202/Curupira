@@ -1,0 +1,22 @@
+.navbar-style{
+	background: #006400;
+	color: #ffffff !important;
+	height: 30em;
+
+
+}
+
+.marcador1{
+	background: #ffd700;
+	border:1px solid #8b008b;
+}
+.sei-la {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:180px;
+  margin:auto;
+  background-color:#ff0000;
+  font-family:Arial;
+  color:#fff; 
+}

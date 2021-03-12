@@ -310,18 +310,16 @@ h3{
  }
 
 /* CAROUSEL -------------------------------------*/
-#mycarrosel {
-	background-color: white;
+.b7{
+	top:0;
+	bottom:auto;
 }
+.b8{
+	top:auto;
+	bottom: 0;
+	position: relative;
 
-.carousel-caption{
-  z-index: 10;
-  position: relative; 
-  padding-top: 0px;
-  padding-bottom: 0px;
-  margin: 1em 0px;
 }
-
 .blibli{
   width: 100px;
   height: 400px;
@@ -350,4 +348,11 @@ h3{
     font-size: 1.25rem;
     line-height: 1.4;
   }
+}
+.indi{
+	padding-top: 2px !important;
+}
+.carousel-capa{
+	box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.6);
+	background-color: rgba(0, 0, 0, 0.6);
 }
